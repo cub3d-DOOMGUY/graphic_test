@@ -6,13 +6,13 @@
 #    By: incho <incho@student.42seoul.kr>           +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/02/01 08:18:34 by incho             #+#    #+#              #
-#    Updated: 2022/04/16 16:18:24 by incho            ###   ########.fr        #
+#    Updated: 2022/04/16 16:20:01 by incho            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 .SUFFIXES: .c .o .h
 
-NAME	=	2dmap
+NAME	=	3dmap
 NAME_DL	=	libmlx.dylib
 
 CP		=	cp
